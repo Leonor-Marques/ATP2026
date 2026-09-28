@@ -10,12 +10,6 @@
 
 ## Resumo
 
-- 
-
-## Lista de resultados
-
-- [Exercício 1: Resolução do Maze10 do Blockly Games](https://blockly.games/maze?lang=en&level=10&&skin=0#da6uso)
+- O TPC do TP2 consistiu no desenvolvimento de um programa em Python baseado no jogo “Adivinha o Número”. O programa apresenta duas modalidades de jogo: na primeira, o computador escolhe aleatoriamente um número entre 0 e 100 e o utilizador tenta descobri-lo; na segunda, é o utilizador que escolhe um número dentro do mesmo intervalo e o computador tenta adivinhar. Depois de o número correto ser encontrado, o programa termina e apresenta o número total de tentativas necessárias para chegar à resposta. 
 
 
-
-- [Exercício 2: Desenho do barco](https://blockly.games/turtle?lang=en&level=10#zedns7)
