@@ -21,17 +21,16 @@ if modo == 1:
 
         if total == 100:
             print("Ganhou o jogador!")
-            break
 
-       
-        computador = 11 - jogador
-        total = total + computador
+        else:
+            computador = 11 - jogador
+            total = total + computador
 
-        print("Computador:", computador)
-        print("Total:", total)
+            print("Computador:", computador)
+            print("Total:", total)
 
-        if total == 100:
-            print("Ganhou o computador!")
+            if total == 100:
+                print("Ganhou o computador!")
 
 
 elif modo == 2:
@@ -48,18 +47,16 @@ elif modo == 2:
 
         if total == 100:
             print("Ganhou o jogador!")
-            break
 
-        
-        computador = 11 - jogador
-        total = total + computador
+        else:
+            computador = 11 - jogador
+            total = total + computador
 
-        print("Computador:", computador)
-        print("Total:", total)
+            print("Computador:", computador)
+            print("Total:", total)
 
-        if total == 100:
-            print("Ganhou o computador!")
-            break
+            if total == 100:
+                print("Ganhou o computador!")
 
 else:
     print("Modo inválido.")
