@@ -9,7 +9,7 @@
 
 
 ## Resumo
-- O TPC do TP6 consistiu no desenvolvimento de uma aplicação em Python para gerir informação escolar. A estrutura dos dados, recorrendo a tuplos e listas, ficou organizada como aluno = (nome, id, [notaTPC, notaProj, notaTeste]) e turma = [aluno].
+- O TPC do TP5 consistiu no desenvolvimento de uma aplicação em Python para gerir informação escolar. A estrutura dos dados, recorrendo a tuplos e listas, ficou organizada como aluno = (nome, id, [notaTPC, notaProj, notaTeste]) e turma = [aluno].
 
 No menu da aplicação existem as operações:
 
